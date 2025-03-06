@@ -1,0 +1,37 @@
+package com.mx.Empleados.Service;
+
+import java.security.Key;
+import java.sql.Date;
+import java.util.HashMap;
+import java.util.Map;
+import io.jsonwebtoken.Jwts;
+import io.jsonwebtoken.SignatureAlgorithm;
+
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.stereotype.Service;
+
+@Service
+public class JwtService {
+	
+	private static final String SECRET_KEY = "7A2B4C6D8E0F1G3H5I7J9K0L2M4N6O8P0Q2R4S6T8U0V1W3X5Y7Z9A0B2C4D";
+
+	public String getToken(UserDetails user) {
+		return getToken(new HashMap<>(), user);
+	}
+
+	private String getToken(Map<String, Object> extraClaims, UserDetails user) {
+		return Jwts
+				.builder()
+				.setClaims(extraClaims)
+				.setSubject(user.getUsername())
+				.setIssuedAt(new Date(System.currentTimeMillis()))
+				.setExpiration(new Date(System.currentTimeMillis()+1000*60*24))
+				.signWith(getKey(), SignatureAlgorithm.HS256)
+				.compact();
+	}
+
+	private Key getKey() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

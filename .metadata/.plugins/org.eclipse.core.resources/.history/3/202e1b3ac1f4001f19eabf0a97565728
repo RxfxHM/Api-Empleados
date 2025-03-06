@@ -1,0 +1,5 @@
+package com.mx.Empleados.Swagger;
+
+public class SwaggerConfig {
+
+}

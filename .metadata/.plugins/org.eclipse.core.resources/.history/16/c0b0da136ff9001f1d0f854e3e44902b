@@ -1,0 +1,5 @@
+package com.mx.Empleados.Config;
+
+public class ApplicationConfig {
+
+}

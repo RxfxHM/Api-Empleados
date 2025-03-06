@@ -1,0 +1,19 @@
+package com.mx.Empleados.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Modifying;
+import org.springframework.data.jpa.repository.Query;
+
+import com.mx.Empleados.Entity.Moneda;
+
+public interface IMonedaDao extends JpaRepository<Moneda, Integer>{
+	
+	@Query(nativeQuery = true, 
+			value = "SELECT * FROM HU_CAT_MONEDA WHERE NUM_CIA = (:numCia) AND CLAVE_MONEDA = (:claveMoneda)")
+	public Moneda findByDosParametros(int numCia, String claveMoneda);
+
+	@Modifying
+	@Query(nativeQuery = true,
+			value = "DELETE FROM HU_CAT_MONEDA WHERE CLAVE_MONEDA = (:claveMoneda)")
+	public void eliminarClaveMoneda(String claveMoneda);
+}

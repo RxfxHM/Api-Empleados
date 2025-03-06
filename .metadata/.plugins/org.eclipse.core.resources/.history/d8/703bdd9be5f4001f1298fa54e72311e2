@@ -1,0 +1,15 @@
+package com.mx.Empleados.Service;
+
+import com.mx.Empleados.Entity.Moneda;
+
+public interface IServiceMoneda {
+	
+	public Moneda alta(Moneda moneda);
+	
+	public Moneda consulta(String numCia, String claveMoneda);
+	
+	public Moneda eliminacion(String numCia, String claveMoneda);
+	
+	public Moneda actualizacion(Moneda Moneda);
+
+}

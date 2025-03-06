@@ -1,0 +1,12 @@
+package com.mx.Empleados.Entity;
+
+public class User {
+
+	Integer id;
+	String username;
+	String lastname;
+	String fistname;
+	String country;
+	String password;
+	Role role;
+}

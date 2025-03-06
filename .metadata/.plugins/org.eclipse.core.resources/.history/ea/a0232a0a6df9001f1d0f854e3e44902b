@@ -1,0 +1,26 @@
+package com.mx.Empleados.Service;
+
+import java.sql.Date;
+import java.util.HashMap;
+import java.util.Map;
+import io.jsonwebtoken.Jwts;
+
+
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.stereotype.Service;
+
+@Service
+public class JwtService {
+
+	public String getToken(UserDetails user) {
+		return getToken(new HashMap<>(), user);
+	}
+
+	private String getToken(Map<String, Object> extraClaims, UserDetails user) {
+		return Jwts
+				.builder()
+				.setClaims(extraClaims)
+				.setSubjects(user.getUsername())
+				.setIssuedAt(new Date(System.currentTimeMillis()));
+	}
+}

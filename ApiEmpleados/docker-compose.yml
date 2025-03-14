@@ -1,0 +1,15 @@
+version: "3.9"
+services: 
+  spring-api-venturesoft:
+    image: spring-api-venturesoft
+    container_name: spring-api-container
+    ports:
+      - "8001:8001"
+    networks:
+      - spring-network
+networks:
+  spring-network:
+volumes:
+  database-volume:
+
+  

@@ -3,6 +3,7 @@ org.springframework.ide.eclipse.boot.wizard.PopularityTracker.actuator=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.docker-compose=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.h2=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.oauth2-authorization-server=1

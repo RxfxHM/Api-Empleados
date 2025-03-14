@@ -3,12 +3,13 @@ package com.mx.Empleados.Entity;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
@@ -18,6 +19,7 @@ import jakarta.persistence.Table;
 public class Moneda {
 
 	// @GeneratedValue(strategy = GenerationType.IDENTITY)
+	
 	private int numCia;
 	@Id
 	@Column(name = "CLAVE_MONEDA")
@@ -26,7 +28,9 @@ public class Moneda {
 	private String simbolo;
 	private String status;
 
-	@OneToMany(mappedBy = "moneda", cascade = CascadeType.ALL, orphanRemoval = true)
+	@OneToMany(mappedBy = "moneda", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@JsonIgnoreProperties("moneda") 
+	@JsonManagedReference
 	private List<Empleados> empleados = new ArrayList<>();
 
 	public Moneda() {

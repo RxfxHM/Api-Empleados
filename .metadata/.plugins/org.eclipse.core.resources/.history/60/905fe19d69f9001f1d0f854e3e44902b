@@ -1,9 +1,0 @@
-package com.mx.Empleados.Repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.mx.Empleados.Entity.User;
-
-public interface IUserDao extends JpaRepository<User, Integer>{
-
-}

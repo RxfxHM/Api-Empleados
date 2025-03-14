@@ -1,5 +1,0 @@
-package com.mx.Empleados.Repository;
-
-public interface IUserDao {
-
-}

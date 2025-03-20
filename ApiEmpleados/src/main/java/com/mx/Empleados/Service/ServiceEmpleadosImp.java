@@ -1,9 +1,12 @@
 package com.mx.Empleados.Service;
 
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.mx.Empleados.Entity.EmpleadoMonedaDTO;
 import com.mx.Empleados.Entity.Empleados;
 import com.mx.Empleados.Repository.IEmpleadosDao;
 
@@ -24,13 +27,13 @@ public class ServiceEmpleadosImp implements IServiceEmpleados{
 	@Override
 	public Empleados consulta(int numCia, int numEmp) {
 		// TODO Auto-generated method stub
-		return dao.findByDosParametros(numCia, numEmp);
+		return dao.encontrar(numCia, numEmp);
 	}
 
 	@Override
 	public Empleados eliminacion(int numCia, int numEmp) {
 		// TODO Auto-generated method stub
-		Empleados empleado = dao.findByDosParametros(numCia, numEmp);
+		Empleados empleado = dao.encontrar(numCia, numEmp);
 		if(empleado != null) {
 			dao.eliminarNumEmp(empleado.getNumEmp());
 		}

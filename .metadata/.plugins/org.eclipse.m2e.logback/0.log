@@ -2227,3 +2227,268 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2025-03-14 14:53:57,696 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-03-14 14:53:57,711 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-03-14 14:53:57,716 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 14:58:40,783 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 14:58:40,897 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 14:58:40,958 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 14:58:44,894 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 14:58:45,002 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 14:58:45,006 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:03:20,878 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:03:21,081 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:03:21,087 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:04:31,930 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:04:31,946 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:04:31,950 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:11:19,166 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:11:19,197 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:11:19,202 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:33:10,143 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:33:10,410 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:33:10,416 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:38:54,936 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:38:54,963 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:38:54,968 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:46:01,651 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:46:01,685 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:46:01,688 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:51:37,338 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:51:37,409 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:51:37,413 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:52:21,374 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:52:21,497 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:52:21,503 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:52:50,007 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:52:50,053 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:52:50,056 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:54:02,871 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:54:02,883 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:54:02,886 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:54:16,832 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:54:16,844 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:54:16,847 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:55:01,789 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:55:01,822 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:55:01,826 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:55:10,179 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:55:10,195 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:55:10,198 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:55:23,171 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:55:23,207 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:55:23,210 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:56:01,766 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:56:01,778 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:56:01,783 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:56:17,680 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:56:17,701 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:56:17,704 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:56:33,548 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:56:33,557 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:56:33,560 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:56:49,375 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:56:49,382 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:56:49,384 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 17:56:55,724 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 17:56:55,751 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 17:56:55,754 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:02:59,833 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:02:59,856 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:02:59,860 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:03:06,511 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:03:06,563 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:03:06,567 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:06:12,827 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:06:12,881 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:06:12,884 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:08:06,031 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:08:06,118 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:08:06,122 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:08:29,821 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:08:30,021 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:08:30,030 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:09:52,945 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:09:52,963 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:09:52,966 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:10:38,147 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:10:38,176 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:10:38,179 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:11:09,985 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:11:09,998 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:11:10,001 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:11:30,446 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:11:30,455 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:11:30,459 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:11:56,181 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:11:56,194 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:11:56,202 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:12:09,987 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:12:09,998 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:12:10,002 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:12:51,147 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:12:51,153 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:12:51,157 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-14 18:13:03,544 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-14 18:13:03,551 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-14 18:13:03,554 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:21:46,380 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:21:46,465 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:21:46,471 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:21:51,060 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:21:51,170 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:21:51,176 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:24:31,955 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:24:32,031 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:24:32,035 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:25:24,629 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:25:24,725 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:25:24,733 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:39:14,791 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:39:14,930 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:39:14,937 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:39:44,493 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:39:44,589 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:39:44,595 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:40:17,161 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:40:17,191 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:40:17,199 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:40:44,778 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:40:44,785 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:40:44,788 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:41:47,209 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:41:47,217 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:41:47,222 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:42:02,680 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:42:02,812 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:42:02,816 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:43:46,301 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:43:46,321 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:43:46,330 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:44:07,791 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:44:07,940 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:44:07,946 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:44:27,581 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:44:27,603 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:44:27,607 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:44:41,001 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:44:41,166 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:44:41,184 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:46:13,283 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:46:13,539 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:46:13,560 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:47:08,216 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:47:08,271 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:47:08,276 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:47:23,976 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:47:23,998 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:47:24,003 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:47:34,045 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:47:34,052 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:47:34,055 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:47:47,172 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:47:47,180 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:47:47,183 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:48:05,542 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:48:05,561 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:48:05,566 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:48:23,657 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:48:23,673 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:48:23,677 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:48:30,826 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:48:30,842 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:48:30,846 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:48:34,021 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:48:34,033 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:48:34,038 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:49:25,623 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:49:25,641 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:49:25,645 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:49:27,437 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:49:27,483 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:49:27,487 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:49:51,402 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:49:51,412 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:49:51,417 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:49:57,099 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:49:57,246 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:49:57,263 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:50:02,321 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:50:02,361 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:50:02,366 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:50:03,628 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:50:03,689 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:50:03,697 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:50:07,966 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:50:08,058 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:50:08,061 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-18 15:50:40,544 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-18 15:50:40,636 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-18 15:50:40,643 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:53:44,793 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:53:45,085 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:53:45,102 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:53:59,759 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:53:59,903 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:53:59,907 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:54:02,132 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:54:02,173 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:54:02,176 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:54:31,028 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:54:31,140 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:54:31,151 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:54:35,893 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:54:35,939 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:54:35,946 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 15:55:21,307 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 15:55:21,405 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 15:55:21,411 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 16:19:54,429 [Worker-125: Compute Mappings for project ApiEmpleados] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mx.Empleados:MS-EMPLEADOS:1.0 @ C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\pom.xml.
+2025-03-19 16:28:10,935 [Worker-126: Compute Mappings for project ApiEmpleados] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mx.Empleados:MS-EMPLEADOS:1.0 @ C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\pom.xml.
+2025-03-19 16:31:22,114 [Worker-126: Compute Mappings for project ApiEmpleados] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mx.Empleados:MS-EMPLEADOS:1.0 @ C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\pom.xml.
+2025-03-19 16:42:00,472 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 16:42:00,493 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 16:42:00,500 [Worker-131: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 16:42:43,172 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-19 17:13:50,542 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 17:13:50,618 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 17:13:50,635 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 20:54:41,891 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 20:54:41,914 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 20:54:41,926 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:02:36,778 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:02:36,785 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:02:36,793 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:19:32,356 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:19:32,368 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:19:32,378 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:20:33,835 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:20:33,837 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:20:33,844 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:25:16,147 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:25:16,158 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:25:16,164 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:27:54,576 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:27:54,579 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:27:54,585 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:30:49,256 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:30:49,263 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:30:49,275 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:39:20,514 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:39:20,621 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:39:20,627 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:40:36,431 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:40:36,433 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:40:36,437 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:43:23,828 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:43:23,833 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:43:23,838 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:45:12,152 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:45:12,220 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:45:12,226 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:48:47,924 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:48:47,932 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:48:47,938 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:48:53,814 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:48:53,955 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:48:53,960 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources
+2025-03-19 21:51:02,032 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:51:02,085 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:51:02,092 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rafaj\OneDrive\Escritorio\Curso Enucom\13.- EJERCICIOS PRACTICA\API VENTURESSOFT\ApiEmpleados\src\test\resources

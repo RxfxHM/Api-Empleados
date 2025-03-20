@@ -1,15 +1,29 @@
 version: "3.9"
-services: 
-  spring-api-venturesoft:
-    image: spring-api-venturesoft
-    container_name: spring-api-container
+services:
+  api-venturesoft:
+    image: api-venturesoft
+    container_name: api-venturesoft-container
     ports:
       - "8001:8001"
     networks:
       - spring-network
+    environment:
+      - SPRING_H2_CONSOLE_ENABLED=true
+      - SPRING_H2_CONSOLE_PATH=/h2-console
+      - SPRING_DATASOURCE_URL=jdbc:h2:file:/data/mydb;WEB_ALLOW_OTHERS=TRUE
+      - SPRING_DATASOURCE_DRIVER_CLASS_NAME=org.h2.Driver
+      - SPRING_DATASOURCE_USERNAME=sa
+      - SPRING_DATASOURCE_PASSWORD=123
+      - SPRING_JPA_DATABASE_PLATFORM=org.hibernate.dialect.H2Dialect
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+    volumes:
+      - h2-data:/data
+
 networks:
   spring-network:
+    driver: bridge
+
 volumes:
-  database-volume:
+  h2-data:
 
   
